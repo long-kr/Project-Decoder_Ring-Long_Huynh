@@ -5,7 +5,7 @@ This is a project designed to code and decode with Caesar and Polybius.
 
 ## Installation:
 
-1. Fork/clone
+1. Fork/Clone
 2. `npm install`
 3. `npm start`
 
