@@ -6,8 +6,8 @@ This is a project designed to code and decode with Caesar and Polybius.
 ## Installation:
 
 1. Fork/clone
-2. npm install
-3. npm start
+2. `npm install`
+3. `npm start`
 
 ## Image:
 
